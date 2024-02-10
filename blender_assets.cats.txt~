@@ -1,0 +1,11 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+a04722bd-89c0-47f6-a169-5980d13817b3:Kono's:Kono's
+b316e861-1e20-4904-aa11-b954888dd819:Kono's:Kono's
+a3d2d444-0b50-468e-a8c6-2e46873aac99:Shaders:Shaders
